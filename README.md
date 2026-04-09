@@ -7,5 +7,3 @@ What the repo/project is about?
 Where is it located?
 What happened?
 
-#Current Plan 
-
